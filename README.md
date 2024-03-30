@@ -1,1 +1,1 @@
-Simple React BMI calculator :)
+Simple React BMI calculator.
